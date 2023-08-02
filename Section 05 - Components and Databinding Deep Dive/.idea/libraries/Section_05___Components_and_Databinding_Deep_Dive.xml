@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Section 05 - Components and Databinding Deep Dive">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/cmp-databinding-assignment-start.zip!/" />
+      <root url="jar://$PROJECT_DIR$/cmp-databinding-assignment-solution.zip!/" />
+      <root url="jar://$PROJECT_DIR$/cmp-databinding-final.zip!/" />
+      <root url="jar://$PROJECT_DIR$/cmp-databinding-start.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,13 @@
+<div class="col-xs-12">
+  <h3>Activity Log</h3>
+  <label for="inactiveCount">Set-To-Inactive Count:</label>
+  <p id="inactiveCount" [innerText]="toInactiveCount"></p>
+  <label for="activeCount">Set-To-Active Count</label>
+  <p id="activeCount">{{toActiveCount}}</p>
+</div>
+<div class="col-xs-12 col-md-8 col-md-offset-2">
+  <h3>Users</h3>
+  <app-active-users></app-active-users>
+  <app-inactive-users></app-inactive-users>
+</div>
+

@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Section 09 - Using Services and Dependency Injection">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/services-start.zip!/" />
+      <root url="jar://$PROJECT_DIR$/services-assignment-solution.zip!/" />
+      <root url="jar://$PROJECT_DIR$/services-final.zip!/" />
+      <root url="jar://$PROJECT_DIR$/services-final (1).zip!/" />
+      <root url="jar://$PROJECT_DIR$/services-assignment-start.zip!/" />
+      <root url="jar://$PROJECT_DIR$/services-start (1).zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

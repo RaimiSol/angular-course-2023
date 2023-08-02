@@ -1,0 +1,6 @@
+<h1 class="text-3xl font-bold underline">
+  Hello world!
+</h1>
+<button (click)="toggleDetails()" class="rounded-full">Display Details</button>
+<p *ngIf="!isHidden">Secret Password = tuna</p>
+<p *ngFor="let clickId of buttonClicks" [ngStyle]="detailsStyle(clickId)" >{{clickId}}</p>
